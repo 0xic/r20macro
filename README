@@ -1,0 +1,12 @@
+This is a script that will generate many GIF links.
+
+I made this for easy roll20 macros to make nice looking skills / spells. 
+
+
+Afterwards put this into your character sheet:
+
+[image[[](https://tinyurl.com/<KEYPHRASE>[[1d<TOTAL NUMBER OF LINKS>]]#.gif)
+
+
+
+
